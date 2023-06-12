@@ -10,5 +10,5 @@
 # Preview
 
 <div align="center">
-    <img src="img/Screenshot/Screenshot.png>
+    <img src="./img/Screenshot/Screenshot.png>
 </div>
