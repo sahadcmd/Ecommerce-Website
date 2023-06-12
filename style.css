@@ -243,7 +243,7 @@ body {
   cursor: pointer;
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
   margin: 15px 15px;
-  transition: 0.2s ease;
+  transition: transform 0.3s ease;
   position: relative;
 }
 
@@ -254,6 +254,7 @@ body {
 
 #product1 .pro:hover {
   box-shadow: 20px 20px 54px rgba(28, 77, 161, 0.06);
+  transform: scale(1.1);
 } 
 
 #product1 .pro .des {
