@@ -1,4 +1,4 @@
-// Script for navigation bar
+
 
 const productContainers = [...document.querySelectorAll('.pro-container')];
 const nxtBtn = [...document.querySelectorAll('.nxt-btn')];
