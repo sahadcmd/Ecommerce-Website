@@ -16,3 +16,5 @@
 <div align="center">
     <img src="./img/Screenshot/Screenshot2.png">
 </div>
+
+This is a responsive e-commerce website using HTML, CSS, and JavaScript. The website seamlessly adapts to different screen sizes, providing an optimal user experience. This project allowed me to showcase my skills in front-end web development and create a visually appealing and user-friendly online shopping platform.
