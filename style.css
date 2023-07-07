@@ -140,7 +140,7 @@ body {
 /* Main part of page */
 
 #main {
-  background-image: url("./img/hero4.png");
+  background-image: url("./img/bg-img.jpg");
   background-size: cover;
   height: 90vh;
   width: 100%;
@@ -1113,7 +1113,7 @@ footer .copyright {
 
   #main {
     padding: 0 20px;
-    background-position: 55%;
+    background-position: 50%;
   }
   #feature {
     justify-content: space-between;
