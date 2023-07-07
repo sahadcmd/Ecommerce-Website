@@ -10,7 +10,7 @@
 # Preview
 
 <div align="center">
-    <img src="./img/Screenshot/Screenshot1.png">
+    <img src="./img/Screenshot/Screenshot01.png">
 </div>
 
 <br>
