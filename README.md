@@ -1,4 +1,4 @@
-# Build and Deploy Ecommerce Website With HTML CSS JavaScript
+# Ecommerce Website With HTML CSS JavaScript
 
 <h3 align="center"><b>E-commerce Website</b></h3>
 
@@ -10,9 +10,18 @@
     <a href="https://github.com/sahadcmd/Ecommerce-Website/issues" target="_blank">Request Feature</a>
 </p>
 
+## About this project 🚀
+
 This is a responsive E-commerce website using HTML, CSS, and JavaScript. The website seamlessly adapts to different screen sizes, providing an optimal user experience. This project allowed me to showcase my skills in front-end web development and create a visually appealing and user-friendly online shopping platform.
 
-# Preview
+## Technologies 🛠️
+
+* `HTML`
+* `CSS`
+* `JavaScript`
+* `jQuery`
+
+## How it looks 📷
 
 <div align="center">
     <img src="./img/Screenshot/Screenshot01.png">
@@ -48,5 +57,5 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/sahadmahaboobp" target="_blank">LinkedIn</a>
   </p>
