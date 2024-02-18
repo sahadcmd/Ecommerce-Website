@@ -44,11 +44,7 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
     <img src="./img/Screenshot/Screenshot3.png">
 </div>
 <br>
-<br>
 
-<div align="center">
-  <img src="./img/about/a1.png">
-</div>
 <br>
 <br>
 
