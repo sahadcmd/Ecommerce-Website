@@ -23,6 +23,7 @@ This is a responsive E-commerce website using HTML, CSS, and JavaScript. The web
 * `HTML`
 * `CSS`
 * `JavaScript`
+* `Bootstrap`
 * `jQuery`
 
 ## How it looks 📷
